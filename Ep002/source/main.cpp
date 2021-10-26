@@ -10,6 +10,6 @@ T add(T a, T b){
 int main(){
 
   std::cout << "Hello from c++ 20 with CMake" << std::endl;
-  std::cout << "The sum is:= " << add(7,3) << std::endl;
+  std::cout << "The sum is:= " << add(7,15) << std::endl;
   return 0;
 }

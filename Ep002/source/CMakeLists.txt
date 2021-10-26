@@ -5,5 +5,5 @@ project(HelloApp
         LANGUAGES CXX)  
 
 #Target
-add_executable(HelloAppBinary main.cpp)
-target_compile_features(HelloAppBinary PRIVATE cxx_std_20)
+add_executable(HelloMig main.cpp)
+target_compile_features(HelloMig PRIVATE cxx_std_20)
